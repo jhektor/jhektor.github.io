@@ -1,41 +1,112 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+################################################
+# SETUP
+################################################
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Johan Hektor
-email: johan.hektor@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    This is my personal website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:  jhektor
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+highlighter: rouge
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics:
+    provider: false
+    statcounter:
+        sc_project  :
+        sc_security :
+        sc_invisible: 1
+        sc_text     : 2
+    google:
+        tracking_id: ''
+
+plugins:
+  - jekyll-seo-tag
+
+#################################################
+# CUSTOMIZATION
+#################################################
+
+title: Johan Hektor
+description: Johan Hektor | Application Expert in Image Analysis | Lund University
+
+url: ""
+baseurl: ""
+
+# start year for copyright
+start_year: "2020"
+
+colors:
+  background: "#FFFFFF;" #"#F4D6CC;" #"#FFFFFF;"
+  separator: "#F4B860;" #"#042352;"
+
+author:
+    name: "Johan Hektor"
+
+# manage your co-authors from here
+
+coauthors:
+  stefanos:
+      name: Stefanos Athanasopoulos
+  tbacker:
+      name: Thomas Bäcker
+  ocastelnau:
+      name: Olivier Castelnau
+  yacoutinho:
+      name: Yuri Amorim Coutinho
+      #web: https://www.robertbrianurl.org
+  alc:
+      name: ALC Conceiçao
+  jonas:
+      name: Jonas Engqvist
+  fgrennerat:
+      name: Fanny Grennerat
+  sven:
+      name: Sven Gutschmidt
+  jbmarijon:
+      name: Jean-Baptiste Marijon
+  steve:
+      name: Stephen Hall
+  shaas:
+      name: Silvio Haas
+  hakan:
+      name: Håkan Hallberg
+  zoltan:
+      name: Zoltan Hegedüs
+  axel:
+      name: Axel Henningsson
+  srini:
+      name: Srinivasan Iyengar
+  jkelleher:
+      name: Joe Kelleher
+  anil:
+      name: Anil Kunwar
+      #web: https://www.aliceadamurl.org
+  emanuel:
+      name: Emanuel Larsson
+  flenrick:
+      name: Filip Lenrick
+  ulrich:
+      name: Ulrich Lienert
+  snomoto:
+      name: Sukeharu Nomoto
+  hma:
+      name: Haitao Ma
+  jsmicha:
+      name: Jean-Sebastién Micha
+  timo:
+      name: Timo Müller
+  nele:
+      name: Nele Moelans
+      web: http://nele.studentenweb.org
+  tpirling:
+      name: Thilo Pirling
+  orobach:
+      name: Odile Robach
+  matti:
+      name: Matti Ristinmaa
+  jon:
+      name: Jon Wright
