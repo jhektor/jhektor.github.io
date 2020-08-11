@@ -51,10 +51,12 @@ author:
 coauthors:
   stefanos:
       name: Stefanos Athanasopoulos
+      web: https://portal.research.lu.se/portal/en/persons/stefanos-athanasopoulos(a2b2efe0-7c5d-413f-872e-03c763ad2de7).html
   tbacker:
       name: Thomas Bäcker
   ocastelnau:
       name: Olivier Castelnau
+      web: https://pimm.artsetmetiers.fr/user/54
   yacoutinho:
       name: Yuri Amorim Coutinho
       #web: https://www.robertbrianurl.org
@@ -62,6 +64,7 @@ coauthors:
       name: ALC Conceiçao
   jonas:
       name: Jonas Engqvist
+      web: https://portal.research.lu.se/portal/en/persons/jonas-engqvist(a71a76e1-011f-4e0e-a351-4c889c51b0f5).html
   fgrennerat:
       name: Fanny Grennerat
   sven:
@@ -70,6 +73,7 @@ coauthors:
       name: Jean-Baptiste Marijon
   steve:
       name: Stephen Hall
+      web: http://www.solid.lth.se/staff/hall-stephen/
   shaas:
       name: Silvio Haas
   hakan:
