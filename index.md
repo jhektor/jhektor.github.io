@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Johan Hektor | Associate Senior Lecturer in Materials Science
+title: Associate Senior Lecturer in Materials Science
 permalink: /
 ---
 <br>
