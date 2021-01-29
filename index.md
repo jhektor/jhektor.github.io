@@ -9,13 +9,14 @@ permalink: /
 
 
 Johan Hektor [[CV]]<br />
-Application Expert in Image Analysis <br />
-[LUNARC], Lund University, Sweden <br />
+Associate Senior Lecturer <br />
+[Department of Materials Science and Applied Mathematics] <br />
+Faculty of Technology & Society, Malmö University, Sweden <br />
 [[email]][[linkedin]][[google scholar]][[researchgate]][[github]] <br />
 
 [CV]: {{ site.baseurl }}/assets/resume.pdf
-[LUNARC]: http://www.lunarc.lu.se
-[email]: mailto:johan.hektor@gmail.com
+[Department of Materials Science and Applied Mathematics]: https://mau.se/en/about-us/faculties-and-departments/faculty-of-technology-and-society/department-of-materials-science-and-applied-mathematics/
+[email]: mailto:johan.hektor@mau.se
 [researchgate]: https://www.researchgate.net/profile/Johan_Hektor
 [linkedin]: https://www.linkedin.com/in/johan-hektor-1960003a/
 [github]: https://github.com/jhektor
