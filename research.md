@@ -5,12 +5,45 @@ title: Research
 
 pubs:
 
+    - url: "https://doi.org/10.1088/1361-6560/ac02d4"
+      internal: False
+      title: "Dual modality neutron and x-ray tomography for enhanced image analysis of the bone-metal interface"
+      coauthors:
+        - etornquist
+        - slecann
+        - etudisco
+        - atengattini
+        - eando
+        - nlenoir
+        - jhektor
+        - draina
+        - mtagil
+        - steve
+        - hisaksson
+      journal: Physics in Medicine & Biology
+      year: 2021
+
+    - url: "https://doi.org/10.1002/adem.202100126"
+      internal: False
+      title: "3D X-Ray Diffraction Characterization of Grain Growth and Recrystallization in Rolled Braze Clad Aluminum Sheet"
+      coauthors:
+        - torkel
+        - jhektor
+        - sbylund
+        - rmoberg
+        - medwards
+        - steve
+        - lanaslund
+      journal: Advanced Engineering Materials
+      year: 2021
+
     - url: "https://www.sciencedirect.com/science/article/abs/pii/S1005030220305156"
       internal: False
       title: "Integration of machine learning with phase field method to model the electromigration induced anode Cu6Sn5 IMC growth at Cu-Sn interface"
       coauthors:
         - anil
         - yacoutinho
+        - jhektor
         - hma
         - nele
       journal: Journal of Materials Science & Technology
@@ -20,6 +53,7 @@ pubs:
       journal: "International Journal of Mechanical Sciences"
       coauthors:
         - anil
+        - jhektor
         - snomoto
         - yacoutinho
         - nele
@@ -34,6 +68,7 @@ pubs:
         - axel
         - steve
         - jon
+        - jhektor
       year: 2020
       internal: False
       #repo: https://github.com/<github_repo>/doubtyourself
@@ -44,6 +79,7 @@ pubs:
       coauthors:
         - zoltan
         - timo
+        - jhektor
         - emanuel
         - tbacker
         - shaas
@@ -58,6 +94,7 @@ pubs:
     - title:   "Long term evolution of microstructure and stress around tin whiskers investigated using scanning Laue microdiffraction"
       journal: "Acta Materialia"
       coauthors:
+        - jhektor
         - jsmicha
         - steve
         - srini
@@ -70,6 +107,7 @@ pubs:
     - title:   "Scanning 3DXRD Measurement of Grain Growth, Stress, and Formation of Cu6Sn5 around a Tin Whisker during Heat Treatment"
       journal: "Materials"
       coauthors:
+        - jhektor
         - steve
         - axel
         - jonas
@@ -96,6 +134,7 @@ pubs:
         - jkelleher
         - tpirling
         - jonas
+        - jhektor
       year: 2018
       internal: False
       #repo: https://github.com/<github_repo>/doubtyourself
@@ -104,6 +143,7 @@ pubs:
     - title:   "Evidence of 3D strain gradients associated with tin whisker growth"
       journal: "Scripta Materialia"
       coauthors:
+        - jhektor
         - jbmarijon
         - matti
         - steve
@@ -121,6 +161,7 @@ pubs:
     - title:   "Coupled diffusion-deformation multiphase field model for elastoplastic materials applied to the growth of Cu6Sn5"
       journal: "Acta Materialia"
       coauthors:
+        - jhektor
         - matti
         - steve
         - hakan

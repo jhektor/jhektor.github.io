@@ -2,10 +2,9 @@
    1. [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend:
       site.baseurl}}{% else %}{{pub.url}}{% endif %})
       <br>
-      {% if pub.coauthors %}with
+      {% if pub.coauthors %} &shy;
          {% for author in pub.coauthors %} {%
-         assign author_data = site.coauthors[author] %}[{{
-         author_data.name}}]({{
+         assign author_data = site.coauthors[author] %}[{{author_data.name}}]({{
          author_data.web}}),{% endfor %}
       {% endif %}{% if pub.journal %}*{{pub.journal}},* {% endif
 %}{{pub.year}} {% if pub.repo %} [[repo]({{pub.repo}})]{% endif %}

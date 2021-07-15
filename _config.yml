@@ -49,6 +49,43 @@ author:
 # manage your co-authors from here
 
 coauthors:
+  etornquist:
+      name: Elin Törnquist
+      web: https://orcid.org/0000-0003-3289-8604
+  slecann:
+      name: Sophie Le Cann
+      web: https://orcid.org/0000-0001-5490-9656
+  etudisco:
+      name: Erika Tudisco
+      web: https://orcid.org/0000-0002-6127-7658
+  atengattini:
+      name: Alessandro Tengattini
+      web: https://orcid.org/0000-0003-0320-3340
+  eando:
+      name: Edward Andò
+      web: https://orcid.org/0000-0001-5509-5287
+  nlenoir:
+      name: Nicolas Lenoir
+      web: https://orcid.org/0000-0003-3517-0627
+  draina:
+      name: Deepak Bushan Raina
+      web: https://orcid.org/0000-0001-8767-892X
+  mtagil:
+      name: Magnus Tägil
+      web: https://orcid.org/0000-0002-0783-5591
+  hisaksson:
+      name: Hanna Isaksson
+      web: https://orcid.org/0000-0002-9690-8907
+  torkel:
+      name: Torkel Stenqvist
+  sbylund:
+      name: Sara Bylund
+  rmoberg:
+      name: Robert Moberg
+  medwards:
+      name: Mårten Edwards
+  lanaslund:
+      name: Lars-Åke Näslund
   stefanos:
       name: Stefanos Athanasopoulos
       web: https://portal.research.lu.se/portal/en/persons/stefanos-athanasopoulos(a2b2efe0-7c5d-413f-872e-03c763ad2de7).html
@@ -73,7 +110,7 @@ coauthors:
       name: Jean-Baptiste Marijon
   steve:
       name: Stephen Hall
-      web: http://www.solid.lth.se/staff/hall-stephen/
+      web: https://orcid.org/0000-0002-5232-4942
   shaas:
       name: Silvio Haas
   hakan:
@@ -114,3 +151,5 @@ coauthors:
       name: Matti Ristinmaa
   jon:
       name: Jon Wright
+  jhektor:
+      name: Johan Hektor
