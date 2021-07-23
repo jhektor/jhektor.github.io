@@ -4,8 +4,7 @@
       <br>
       {% if pub.coauthors %} &shy;
          {% for author in pub.coauthors %} {%
-         assign author_data = site.coauthors[author] %}[{{author_data.name}}]({{
-         author_data.web}}),{% endfor %}
+           assign author_data = site.coauthors[author] %}{% if author=='jhektor'%}[**{{author_data.name}}**]({{author_data.web}}),{% else %}[{{author_data.name}}]({{author_data.web}}),{% endif %}{% endfor %}
       {% endif %}{% if pub.journal %}*{{pub.journal}},* {% endif
 %}{{pub.year}} {% if pub.repo %} [[repo]({{pub.repo}})]{% endif %}
       {: style="margin-top:0px"}
