@@ -177,6 +177,7 @@ pubs:
 My main research interest is x-ray based 3D imaging of engineering materials, especially using diffraction based techniques.
 I am particularly interested in developing and using methods that provide information about individual grains in polycrystalline samples, such as 3DXRD.
 I am also interested in more traditional x-ray and/or neutron tomography, especially when combined with in-situ manipulation of the specimen.
+{% include image.html url="/images/wordcloud_all.png" caption="" width="1000px" align="center" %}
 
 ## Publications
 I'll be happy to share pdfs of the papers upon request.
