@@ -49,6 +49,12 @@ author:
 # manage your co-authors from here
 
 coauthors:
+  dpagan:
+      name: Darren Pagan
+  phedstrom:
+      name: Peter Hedström
+  bneding:
+      name: Benjamin Neding
   etornquist:
       name: Elin Törnquist
       web: https://orcid.org/0000-0003-3289-8604

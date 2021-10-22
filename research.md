@@ -4,7 +4,17 @@ permalink: /research/
 title: Research
 
 pubs:
-
+    - url: "https://www.mdpi.com/1304906"
+      internal: False
+      title: "Formation of dislocations and stacking faults in embedded individual grains during in situ tensile loading of an austenitic stainless steel"
+      coauthors:
+        - bneding
+        - dpagan
+        - jhektor
+        - phedstrom
+      journal: Materials
+      year: 2021
+      
     - url: "https://doi.org/10.1088/1361-6560/ac02d4"
       internal: False
       title: "Dual modality neutron and x-ray tomography for enhanced image analysis of the bone-metal interface"
@@ -25,7 +35,7 @@ pubs:
 
     - url: "https://doi.org/10.1002/adem.202100126"
       internal: False
-      title: "3D X-Ray Diffraction Characterization of Grain Growth and Recrystallization in Rolled Braze Clad Aluminum Sheet"
+      title: "3D X-Ray diffraction characterization of grain growth and recrystallization in rolled braze clad aluminum sheet"
       coauthors:
         - torkel
         - jhektor
@@ -104,7 +114,7 @@ pubs:
       #repo: https://github.com/<github_repo>/doubtyourself
       url:   "https://www.sciencedirect.com/science/article/pii/S1359645419301077?via%3Dihub"
 
-    - title:   "Scanning 3DXRD Measurement of Grain Growth, Stress, and Formation of Cu6Sn5 around a Tin Whisker during Heat Treatment"
+    - title:   "Scanning 3DXRD measurement of grain growth, stress, and formation of Cu6Sn5 around a tin whisker during heat treatment"
       journal: "Materials"
       coauthors:
         - jhektor
@@ -126,7 +136,7 @@ pubs:
       #repo: https://github.com/<github_repo>/doubtyourself
       url:   "https://portal.research.lu.se/portal/files/55623549/kappa.pdf"
 
-    - title:   "Mapping Grain Strains in Sand Under Load Using Neutron Diffraction Scanning"
+    - title:   "Mapping grain strains in sand under load using neutron diffraction scanning"
       journal: "Micro to MACRO Mathematical Modelling in Soil Mechanics"
       coauthors:
         - stefanos
